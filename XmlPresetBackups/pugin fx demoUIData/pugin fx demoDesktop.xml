@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptFloatingTile" id="FloatingTile1" x="0" y="0" width="600"
+             height="500" ContentType="DraggableFilterPanel" bgColour="0"
+             itemColour="2147483647" itemColour2="855638016" Data="{&#13;&#10;  &quot;ProcessorId&quot;: &quot;Parametriq EQ1&quot;,&#13;&#10;  &quot;Index&quot;: -1&#13;&#10;}"/>
+</ContentProperties>
